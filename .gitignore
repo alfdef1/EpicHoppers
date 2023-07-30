@@ -1,10 +1,14 @@
-## JetBrains IDEs
-/.idea/
+
+out/
+
+\.idea/
+/src/main/resources/META-INF/MANIFEST.MF
+/EpicHoppers.iml
+
+target/
+
+EpicHoppers-API/EpicHoppers-API\.iml
+
+EpicHoppers-Plugin/EpicHoppers-Plugin\.iml
+
 *.iml
-
-## Maven
-/**/target/
-/**/dependency-reduced-pom.xml
-
-## Misc.
-.DS_Store
